@@ -28,12 +28,6 @@ yarn start
 6. If everything looks good, stage your changes, commit and push to main. 
 Github Actions will be triggered to deploy the page automatically.
 
-
-## Note
-Following sections are generally not required. Just make your modifications, verify they work well, stage your changes, commit and push to the master. Github Actions will be triggered to deploy the page automatically.
-
-If you do not want to work with github workflow, you can also directly edit the files in the browser.
-
 ### Pre-requisite
 1. Install [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 ```
