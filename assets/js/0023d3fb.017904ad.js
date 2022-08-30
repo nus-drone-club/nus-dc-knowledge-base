@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknus_dc_knowledge_base=self.webpackChunknus_dc_knowledge_base||[]).push([[1336],{9639:e=>{e.exports=JSON.parse('{"permalink":"/nus-dc-knowledge-base/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknus_dc_knowledge_base=self.webpackChunknus_dc_knowledge_base||[]).push([[2973],{6819:e=>{e.exports=JSON.parse('{"permalink":"/nus-dc-knowledge-base/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

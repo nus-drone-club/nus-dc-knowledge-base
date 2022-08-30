@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknus_dc_knowledge_base=self.webpackChunknus_dc_knowledge_base||[]).push([[528],{6961:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/nus-dc-knowledge-base/blog/tags/hello","allTagsPath":"/nus-dc-knowledge-base/blog/tags","count":2}')}}]);
